@@ -1,0 +1,12 @@
+C:\Users\XEFIR\Desktop\LaucherFiveM\bin\Debug\LaucherFiveM.exe.config
+C:\Users\XEFIR\Desktop\LaucherFiveM\bin\Debug\LaucherFiveM.exe
+C:\Users\XEFIR\Desktop\LaucherFiveM\bin\Debug\LaucherFiveM.pdb
+C:\Users\XEFIR\Desktop\LaucherFiveM\bin\Debug\LaucherFiveM.xml
+C:\Users\XEFIR\Desktop\LaucherFiveM\obj\Debug\LaucherFiveM.vbprojAssemblyReference.cache
+C:\Users\XEFIR\Desktop\LaucherFiveM\obj\Debug\LaucherFiveM.Resources.resources
+C:\Users\XEFIR\Desktop\LaucherFiveM\obj\Debug\LaucherFiveM.vbproj.GenerateResource.cache
+C:\Users\XEFIR\Desktop\LaucherFiveM\obj\Debug\LaucherFiveM.vbproj.CoreCompileInputs.cache
+C:\Users\XEFIR\Desktop\LaucherFiveM\obj\Debug\LaucherFiveM.exe
+C:\Users\XEFIR\Desktop\LaucherFiveM\obj\Debug\LaucherFiveM.xml
+C:\Users\XEFIR\Desktop\LaucherFiveM\obj\Debug\LaucherFiveM.pdb
+C:\Users\XEFIR\Desktop\LaucherFiveM\obj\Debug\LaucherFiveM.Launcher.resources
